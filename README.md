@@ -27,17 +27,14 @@
 
 ---
 ### 📸 Slack Interaction
-
-> A sales rep asks about Dr. Paul Solomon and follows up with medical queries on Cardiovex.  
-> *PharmaSales SlackGPT segments the HCP, retrieves strategy, and responds with compliant medical insights — all inside Slack.*
-
-![Desktop Slack Demo](app/screenshots/slack_desktop_demo.png)
-
-### 📱 Mobile Experience
+<h4>💬 Desktop (to the left) vs Mobile Experience (to the right)</h4>
 
 > PharmaSales SlackGPT is optimized for field use. Here's an example showing real-time responses to HCP and product queries from a mobile Slack client.
 
-![Mobile Slack Demo](app/screenshots/slack_mobile_demo.jpg)
+<p align="center">
+  <img src="app/screenshots/slack_desktop_demo.png" alt="Desktop view" width="65%" />
+  <img src="app/screenshots/slack_mobile_demo.jpg" alt="Mobile view" width="22%" />
+</p>
 
 ---
 
