@@ -1,0 +1,6 @@
+slack_bolt
+openai
+pandas
+joblib
+python-dotenv
+scikit-learn

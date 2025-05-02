@@ -1,0 +1,109 @@
+Name: Glytora  
+Generic Name: Hexafluronide  
+Drug Class: Glucose Transport Modulator (GTM)
+
+---
+
+Indications and Usage:
+Glytora is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.  
+
+It may be used as:
+- Monotherapy in newly diagnosed patients  
+- Dual therapy in combination with metformin or GLP-1 agonists  
+- Add-on therapy for patients not controlled on insulin regimens
+
+Glytora is not indicated for treatment of type 1 diabetes or diabetic ketoacidosis.
+
+---
+
+Dosage and Administration:
+Glytora is taken orally once daily with the first main meal of the day.  
+
+Initial dosing:
+- 100mg once daily, regardless of renal function
+
+Titration:
+- Increase to 200mg after 4 weeks if glycemic targets are not met  
+- Maximum dose: 300mg/day
+
+Tablets should be swallowed whole. Do not split or crush.
+
+---
+
+Side Effects:
+Common side effects (≥5% of patients in trials):
+- Gastrointestinal upset (nausea, bloating)
+- Mild fatigue or drowsiness
+- Metallic taste
+- Increased thirst in first 7–10 days
+
+Rare but serious side effects:
+- Lactic acidosis (in cases of overdose)
+- Hypoglycemia when used with insulin
+- Bladder irritation
+
+---
+
+Warnings and Precautions:
+- Periodic monitoring of renal function (eGFR) is advised, especially in elderly patients
+- Use caution in patients with known GI conditions (e.g., IBS, Crohn’s)
+- May mask early signs of hypoglycemia when used with sulfonylureas or insulin
+- Avoid alcohol consumption during treatment
+
+---
+
+Contraindications:
+Do not use Glytora in:
+- Type 1 diabetes
+- Patients with severe renal impairment (eGFR < 30 mL/min/1.73m²)
+- Patients with active bladder cancer
+- Pregnant or breastfeeding individuals (not studied in this population)
+- Known hypersensitivity to Hexafluronide or related compounds
+
+---
+
+Mechanism of Action:
+Glytora selectively binds to GLUT-7 transport proteins in intestinal epithelial cells, reducing postprandial glucose absorption without altering insulin secretion.
+
+By modulating SGLT and GLUT activity, Glytora lowers the glucose spike after meals while preserving endogenous insulin response. It has minimal impact on hepatic gluconeogenesis.
+
+---
+
+Formulations and Strengths:
+Glytora is available as immediate-release tablets:
+- 100 mg (pale green, hexagonal)
+- 200 mg (white, oval)
+- 300 mg (light blue, round)
+
+Each tablet is film-coated and scored for accurate dosing.
+
+---
+
+Storage and Handling:
+- Store at 15–30°C (59–86°F)
+- Do not refrigerate or freeze
+- Protect from excessive humidity
+- Keep in original blister pack to preserve potency
+
+---
+
+Commercial History:
+Glytora was developed by Nexavax Biologics and approved in 2024 under the Global Glycemic Innovation Fast Track (GGIFT) program.
+Nexavax Biologics makes it
+Current distribution partners:
+- US & Canada: Caravex Pharmaceuticals
+- Europe: Medira Group
+- Latin America: BioFluent S.A.
+- India & SEA: Gencore Bioventures
+
+It is listed on the WHO Essential Medicines List (Fictional Entry #F-23D) for non-insulin-dependent diabetes.
+
+---
+
+How It Works:
+Glytora works by delaying and reducing the absorption of dietary glucose at the intestinal level. Unlike DPP-4 or SGLT-2 inhibitors, it acts directly on membrane transporters, providing consistent glycemic control without affecting sodium or insulin pathways.
+
+In clinical trials (N=2800), patients on Glytora showed:
+- A1C reduction of 1.3% at 12 weeks
+- 82% improved fasting glucose levels
+- 72% experienced fewer post-meal glucose spikes

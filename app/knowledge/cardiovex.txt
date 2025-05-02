@@ -1,0 +1,99 @@
+Name: Cardiovex
+Generic Name: Ventolaprine XR
+Drug Class: Beta-2 Adrenergic Modulator (Extended-Release)
+
+---
+
+Indications and Usage:
+Cardiovex is indicated for:
+- The management of Stage I and Stage II essential hypertension
+- Long-term treatment of chronic stress-induced arrhythmia
+- Adjunct therapy in patients with early-stage vascular rigidity syndrome (VRS), as diagnosed by a licensed physician
+
+Cardiovex should not be used for immediate relief of acute cardiac symptoms. It is intended for maintenance therapy only.
+
+---
+
+Dosage and Administration:
+Cardiovex is administered orally as a once-daily extended-release tablet.
+
+Initial dosing recommendation:
+- Hypertension: 50mg once daily
+- Arrhythmia: 75mg once daily
+- VRS (adjunct): 25mg once daily, titratable to 75mg as tolerated
+
+Dosage adjustments may be made at 1-week intervals based on clinical response. Tablets should be swallowed whole and not crushed or chewed.
+
+---
+
+Side Effects:
+Commonly reported side effects (≥10% of patients in clinical trials) include:
+- Mild fatigue
+- Peripheral coldness (hands/feet)
+- Transient dizziness
+- Reduced exercise tolerance in the first week of use
+
+Less common effects (<5%):
+- Lightheadedness when standing
+- Mild mood changes
+- Nighttime heart rate dips
+
+Report any symptoms of severe bradycardia, confusion, or fainting immediately to a healthcare provider.
+
+---
+
+Warnings and Precautions:
+- Do not discontinue Cardiovex abruptly. Dose should be tapered over 2 weeks under supervision.
+- Caution is advised in patients with coexisting pulmonary conditions (e.g., asthma, chronic bronchitis).
+- Use in diabetic patients may mask symptoms of hypoglycemia.
+- Avoid use in individuals with untreated thyroid disease or unstable electrolyte imbalance.
+
+---
+
+Contraindications:
+- Cardiovex is contraindicated in patients with:
+  - Second or third-degree heart block without a pacemaker
+  - Overt cardiac failure not managed with diuretics
+  - Severe hypotension (systolic BP < 85 mmHg)
+  - Known hypersensitivity to Ventolaprine or excipients
+
+---
+
+Mechanism of Action:
+Cardiovex selectively modulates Beta-2 adrenergic receptors in cardiac tissue, reducing sympathetic overstimulation without affecting bronchodilation pathways. This mechanism lowers resting heart rate and improves vascular flexibility, leading to gradual blood pressure reduction and rhythm stabilization.
+
+---
+
+Formulations and Strengths:
+Cardiovex is available as extended-release tablets in the following strengths:
+- 25 mg (light yellow, oval)
+- 50 mg (light blue, round)
+- 75 mg (light green, oval)
+- 100 mg (white, oblong)
+
+Each tablet contains a hydrophilic matrix for controlled 24-hour release.
+
+---
+
+Storage and Handling:
+- Store at 20–25°C (68–77°F); excursions permitted to 15–30°C (59–86°F)
+- Protect from moisture and direct sunlight
+- Keep tablets in original blister pack until use
+- Keep out of reach of children
+
+---
+
+Commercial History:
+Cardiovex was developed by a joint venture between Virexa Therapeutics and Helionova Biotech. It received conditional approval in 2023 under the Accelerated Cardiovascular Access Pathway (ACAP). Since then, it has been adopted in over 22 countries for early-stage hypertension treatment.
+they make it.
+Distribution partnerships include:
+- North America: Neocardia Pharma
+- EU: HeartWave AG
+- APAC: Sumimoto Kyowa International
+
+---
+
+How It Works:
+Cardiovex reduces heart strain by moderating beta-adrenergic activity, lowering pulse pressure amplitude, and easing arterial compliance. Unlike non-selective beta-blockers, it retains peripheral airway responsiveness, making it a novel choice for patients with coexisting mild asthma or stress sensitivity.
+
+In clinical trials (N=2400), Cardiovex reduced systolic pressure by an average of 14 mmHg and improved heart rate variability in 82% of subjects by week 6.

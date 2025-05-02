@@ -1,0 +1,115 @@
+Name: Aeronyx  
+Generic Name: Lumacortisol  
+Drug Class: Inhaled Corticosteroid + Long-Acting Bronchodilator (ICS-LABA)
+
+---
+
+Indications and Usage:
+Aeronyx is indicated for:
+- Long-term maintenance treatment of asthma in patients aged 12 and older
+- Prevention of bronchospasm in patients with moderate to severe chronic asthma
+- Adjunctive therapy for patients with exercise-induced bronchoconstriction (EIB)
+
+Aeronyx is not indicated for:
+- Acute bronchospasm relief
+- Primary therapy in status asthmaticus
+
+Use in children under 12 has not been established.
+
+---
+
+Dosage and Administration:
+Aeronyx is administered via oral inhalation using a pre-metered inhaler.
+
+Standard dosage:
+- Maintenance: 1 inhalation (125 mcg/50 mcg) twice daily, approximately 12 hours apart
+- For patients with inadequate control: may increase to 250 mcg/50 mcg twice daily, as tolerated
+
+Administration instructions:
+- Shake inhaler well before use
+- Rinse mouth with water (do not swallow) after each dose to reduce risk of oropharyngeal candidiasis
+- Discard inhaler after 60 actuations
+
+---
+
+Side Effects:
+Common adverse reactions (≥5%):
+- Hoarseness or voice changes
+- Oral thrush (fungal infection)
+- Dry mouth
+- Headache
+- Nervousness or tremors
+
+Less common but serious:
+- Paradoxical bronchospasm
+- Hypokalemia (low potassium)
+- Adrenal suppression with long-term use
+
+---
+
+Warnings and Precautions:
+- Do not use Aeronyx to treat sudden asthma attacks
+- Risk of systemic corticosteroid effects exists, particularly with high doses or prolonged use
+- Monitor growth in pediatric patients during prolonged therapy
+- May increase risk of pneumonia in patients with chronic respiratory disease
+
+Patients should be assessed regularly for risk of adrenal insufficiency, bone density loss, and visual changes (e.g., cataracts, glaucoma).
+
+---
+
+Contraindications:
+- Aeronyx is contraindicated in patients with:
+  - Known hypersensitivity to Lumacortisol or excipients
+  - Primary treatment of acute bronchospasm
+  - History of severe milk protein allergy (lactose-based propellant used)
+
+---
+
+Mechanism of Action:
+Aeronyx combines two active ingredients:
+1. **Lumacortisol** – a synthetic corticosteroid that reduces airway inflammation, mucus production, and bronchial hyperreactivity.
+2. **Formoteracline** – a long-acting beta-2 agonist (LABA) that relaxes smooth muscles in the bronchial walls for up to 12 hours.
+
+Together, they provide both symptom prevention and long-term control of airway inflammation.
+
+---
+
+Formulations and Strengths:
+Each metered dose contains:
+- 125 mcg Lumacortisol + 50 mcg Formoteracline (standard strength)
+- 250 mcg Lumacortisol + 50 mcg Formoteracline (high strength)
+
+The inhaler delivers 60 pre-metered doses and includes a dose counter.
+
+---
+
+Storage and Handling:
+- Store at 20–25°C (68–77°F)
+- Do not freeze or expose to temperatures above 50°C
+- Avoid direct sunlight and heat sources
+- Replace cap tightly after each use
+- Discard 30 days after opening foil pouch
+
+---
+
+Commercial History:
+Aeronyx was developed by Ventiva Respiratory Sciences and received full regulatory approval in 2022 following the 3-year ACTIVATE trial program.
+Ventiva Respiratory Sciences makes it.
+Global distribution partners:
+- North America: ClarionRx
+- EU and UK: BreatheLife GmbH
+- South Asia: Anahata Biotech
+- Middle East and Africa: MekaPharm Holdings
+
+Aeronyx is currently under evaluation for COPD indications in multiple territories.
+
+---
+
+How It Works:
+Aeronyx’s dual-mechanism approach:
+- **Reduces inflammation** in bronchial tissue through local steroid activity
+- **Improves airway patency** through sustained bronchodilation
+
+This reduces asthma flare-ups, improves lung function (FEV1), and enables symptom-free periods with fewer rescue inhaler uses.
+
+In pivotal trials (N=3600), Aeronyx reduced severe exacerbation risk by 42% and improved peak expiratory flow (PEF) by 18% within 8 weeks.
